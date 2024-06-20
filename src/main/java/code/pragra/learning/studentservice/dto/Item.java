@@ -1,4 +1,4 @@
-package code.pragra.learning.studentservice.model;
+package code.pragra.learning.studentservice.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

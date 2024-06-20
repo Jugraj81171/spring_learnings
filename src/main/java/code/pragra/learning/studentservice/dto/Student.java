@@ -1,4 +1,4 @@
-package code.pragra.learning.studentservice.model;
+package code.pragra.learning.studentservice.dto;
 
 public class Student {
     private int id;
